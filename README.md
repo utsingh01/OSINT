@@ -1,6 +1,6 @@
 # OSINT
 This repo will be used to store OSINT automation APIs
-# Email
+# Email:
 # Name	Link	Description	Price
 # EVA	https://eva.pingutil.com/	Measuring email deliverability & quality	FREE
 # Mailboxlayer	https://mailboxlayer.com/	Simple REST API measuring email deliverability & quality	100 requests FREE, 5000 requests in month — $14.49
